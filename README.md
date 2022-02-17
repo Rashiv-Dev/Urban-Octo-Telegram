@@ -1,2 +1,1 @@
-# Urban-Octo-Telegram
-Challenge Week 1
+# Code Refactor Starter Code
